@@ -1,1 +1,1 @@
-https://cdn.rawgit.com/olbersia/olbersia.net/master/notofont.css
+https://cdn.jsdelivr.net/gh/olbersia/olbersia.net/notofont.css
